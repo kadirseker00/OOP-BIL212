@@ -24,6 +24,7 @@ title: "Ana Sayfa"
   </div>
 </div>
 
+
 ---
 
 > 💬 **Duyuru:** Ders materyalleri ve ödev yönergeleri haftalık olarak bu sayfa üzerinden paylaşılacaktır.
