@@ -5,11 +5,11 @@ title: "Ana Sayfa"
 
 <div style="display:flex;align-items:center;gap:24px;flex-wrap:wrap">
   <div style="flex:1;min-width:260px">
-    <h1 style="margin-top:0;color:var(--accent)">Algoritma Uygulamaları (BIL-377)</h1>
+    <h1 style="margin-top:0;color:var(--accent)">Nesne Yönelimli Programlama (BIL-212)</h1>
     <h3 style="margin-top:4px;color:var(--muted)">Bilgisayar Mühendisliği Bölümü — KTMU</h3>
     <p style="margin:16px 0 24px 0;color:var(--text)">
-      <strong>Ders Zamanı:</strong> Salı günleri 13:30 🕥  
-      <br><strong>Sınıf:</strong> MFFB-523  
+      <strong>Ders Zamanı:</strong> Çarşamba günleri 13:30 🕥  
+      <br><strong>Sınıf:</strong> MFFB-525  
     </p>
     <a class="btn" href="{{ '/syllabus' | relative_url }}">📄 Ders İzlencesi</a>
     <a class="btn" href="{{ '/lectures' | relative_url }}" style="margin-left:8px">🧭 İçerik</a>
@@ -28,4 +28,3 @@ title: "Ana Sayfa"
 ---
 
 > 💬 **Duyuru:** Ders materyalleri ve ödev yönergeleri haftalık olarak bu sayfa üzerinden paylaşılacaktır.
-
