@@ -11,7 +11,6 @@ title: "Ana Sayfa"
       <strong>Ders Zamanı:</strong> Çarşamba günleri 13:30 🕥  
       <br><strong>Sınıf:</strong> MFFB-525  
     </p>
-    <a class="btn" href="{{ '/syllabus' | relative_url }}">📄 Ders İzlencesi</a>
     <a class="btn" href="{{ '/lectures' | relative_url }}" style="margin-left:8px">🧭 İçerik</a>
     <a class="btn" href="{{ '/assignments' | relative_url }}" style="margin-left:8px">🧭 Ödevler</a>
   </div>
