@@ -18,7 +18,7 @@ title: "Ana Sayfa"
 
   <div style="flex:1;min-width:220px;text-align:center">
     <div class="card" style="background:var(--surface);border:2px dashed var(--accent);padding:20px;">
-      <h2 style="margin:0;color:var(--accent)">2025-2026 Güz</h2>
+      <h2 style="margin:0;color:var(--accent)">2025-2026 Bahar</h2>
       <p style="margin:8px 0;color:var(--muted)">Dr. Abdulkadir Şeker</p>
       <p style="margin:0"><a href="mailto:abdulkadir.seker@manas.edu.tr">abdulkadir.seker@manas.edu.tr</a></p>
     </div>
