@@ -15,7 +15,6 @@ plugins:
   - jekyll-sitemap
 # Menu links (navbar)
 header_pages:
-  - syllabus.md
   - lectures.md
   - assignments.md
   - resources.md
