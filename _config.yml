@@ -1,0 +1,21 @@
+title: "Ders Adı (BIL-377 ALGORİTMA UYGULAMALARI)"
+description: "Ders kaynakları, haftalık plan ve duyurular"
+lang: tr
+url: "https://kadirseker00.github.io"
+baseurl: "/AlgApp-BIL377"
+theme: minima
+author:
+  name: "Dr. Abdulkadir Şeker"
+  email: "abdulkadir.seker@manas.edu.kg"
+minima:
+  skin: classic
+markdown: kramdown
+plugins:
+  - jekyll-feed
+  - jekyll-sitemap
+# Menu links (navbar)
+header_pages:
+  - syllabus.md
+  - lectures.md
+  - assignments.md
+  - resources.md
